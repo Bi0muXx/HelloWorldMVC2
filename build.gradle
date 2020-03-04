@@ -4,6 +4,9 @@ plugins {
 
 group 'org.example'
 version '1.0-SNAPSHOT'
+group='HelloWorldMVC2.controller'
+group='HelloWorldMVC2.view'
+group='HelloWorldMVC2.model'
 
 sourceCompatibility = 1.8
 
