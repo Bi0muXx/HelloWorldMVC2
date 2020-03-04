@@ -16,6 +16,7 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile 'org.testng:testng:+'
     implementation 'mysql:mysql-connector-java:8.0.19'
     compile project(':controller')
 }
